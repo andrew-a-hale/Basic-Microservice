@@ -12,3 +12,4 @@ To do;
 - Add Unit Testing
 - Remove Debug lines
 - Handle build warning
+- Fix Grpc to work on local
